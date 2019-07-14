@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="my_track_text">ALC 4 Phase 1</string>
+    <string name="about_alc">ABOUT ALC</string>
+    <string name="title">Welcome To ALC 4.0</string>
+    <string name="toolbar3_text_my_profile">My Profile</string>
+    <string name="my_name_text">Hans Eric Mills Lamptey</string>
+    <string name="my_phone_number_label">Phone Number:</string>
+    <string name="my_track_label">Track:</string>
+    <string name="my_email_label">Email:</string>
+    <string name="my_slack_username_label">Slack Username:</string>
+    <string name="my_slack_username_text">@Hans Eric Mills Lamptey</string>
+    <string name="my_phone_number_text">(+233) 54 831 4875</string>
+    <string name="my_email_address">epiclogicgh@gmail.com</string>
+    <string name="my_country_label">Country:</string>
+    <string name="todo">TODO</string>
+    <string name="my_country_text">Ghana</string>
+</resources>
